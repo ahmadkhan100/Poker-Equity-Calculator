@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <numeric>
 #include <execution>
-#include "PokerLib.h"  // Placeholder for the poker library you're using.
+#include "PokerLib.h"  // Placeholder for the poker library we are using.
 
 /**
  * Generate all possible 2-card hands from the remaining deck.
